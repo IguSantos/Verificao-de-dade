@@ -5,7 +5,7 @@
   </a>
 </p>
 
-> Uma aplicação que aplica a idade com o ano indicado e oferece uma foto de pessoas com idade oferecida (Jovem, Adulto, Idoso)
+> Uma aplicação que aplica a idade com o ano indicado e oferece uma foto de pessoas com a idade do ano atual (Jovem, Adulto, Idoso)
 
 ### 🏠 [Clique para ver o projeto](https://igusantos.github.io/Verificao-de-idade/)
 
@@ -13,10 +13,4 @@
 
 👤 **Igor Pereira**
 
-* Github: [@IguSantos](https://github.com/IguSantos)
-
-## Mostre seu apoio
-
-Dê uma ⭐️ se este projeto te ajudou!
-
-***
+* Instagram: [@igu_santos](https://www.instagram.com/igu_santos/)
